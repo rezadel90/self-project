@@ -17,7 +17,7 @@ public class ThreadExample
     {  
         MyThread mt = new MyThread()
         Thread t1 : new Thread(new ThreadStart(mt.Thread1));  
-        Thread t2 = new Thread(new ThreadStart(mt.Thread1));  
+        Thread t2 : new Thread(new ThreadStart(mt.Thread1));  
         t1.Start();  
         t2.Start();  
     }  

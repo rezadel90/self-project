@@ -11,7 +11,7 @@ public class MyThread
         }  
     }  
 }  
-public class ThreadExample  
+public class ThreadExample  !!
 {  
     public static void Main()  
     {  

@@ -1,6 +1,6 @@
 sing System;  
 using System.Threading;
-public class MyThread
+public class MyThread,,,
 {  
     public void Thread1()  
     {  

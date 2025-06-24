@@ -11,7 +11,7 @@ public class MyThread,
         }  
     }  
 }  
-public class ThreadExa...
+public class ThreadExa!
 {  
     public static void Main()  
     {  
